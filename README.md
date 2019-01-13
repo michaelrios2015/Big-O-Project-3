@@ -13,7 +13,7 @@ The input to the O(n) program: Linear time growth
 * 100000 - BUILD SUCCESSFUL (total time: 8 seconds)
 
 Running time probably had more to do with how long it took me to enter the number than actual execution
-The input to the O(2n) program: Exponential growth
+The input to the O(2^n) program: Exponential growth
 
 * 1, BUILD SUCCESSFUL (total time: 2 seconds)
 * 10, BUILD SUCCESSFUL (total time: 3 seconds)
