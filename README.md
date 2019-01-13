@@ -1,9 +1,11 @@
 # Big-O-Project-3
 
-This was a Homework assignement designed to show the dangers of exponential growth in running times
+This was done for **COSC 600 at Towson University**
+
+This assignement was designed to show the dangers of exponential growth in running times
 
 Execute  two java programs with O(n) and O(2n) time complexity respectively and submit the actual execution time and your programs.
-The input to the O(n) program: 
+The input to the O(n) program: Linear time growth
 * 10 - BUILD SUCCESSFUL (total time: 3 seconds) 
 * 100 - BUILD SUCCESSFUL (total time: 3 seconds)
 * 1000 - BUILD SUCCESSFUL (total time: 6 seconds) 
@@ -11,7 +13,7 @@ The input to the O(n) program:
 * 100000 - BUILD SUCCESSFUL (total time: 8 seconds)
 
 Running time probably had more to do with how long it took me to enter the number than actual execution
-The input to the O(2n) program: 
+The input to the O(2n) program: Exponential growth
 
 * 1, BUILD SUCCESSFUL (total time: 2 seconds)
 * 10, BUILD SUCCESSFUL (total time: 3 seconds)
